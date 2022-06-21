@@ -7,5 +7,5 @@
 - assocation
 - test framework to test mongoose
 
-execute the below command to bring up local mongo
+execute the below command to bring up local mongo  
 docker-compose up
